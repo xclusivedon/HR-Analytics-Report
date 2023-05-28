@@ -5,18 +5,18 @@ This personal project was done by ***Tunde Ajose-Ismail*** for a human resources
 ## About the Report :-
 **Objective** : The objective of this Human Resources Employee Attrition Data Analysis report is to utilize Power BI to track key performance indicators (KPIs) related to employee attrition. The report aims to provide insights into attrition rates, reasons for attrition, and employee demographics, enabling HR professionals to develop strategies for improving employee retention and organizational success.
 
-**Company**: 
+**Company**: Spectranet Inc.
 
-**Role** : Senior analyst
+**Role** : BI Developer
 
 ## Tasks Performed through the entire business intelligence workflow: :-
-1. Data Gathering
-2. Connecting,cleaning and transforming Source data
-3. Creating measures to identify and track KPIs 
-4. Designing an interactive report dashboard
+1. Acquiring the necessary data
+2. Establishing connections, cleansing, and transforming the source data
+3. Developing measures to identify and monitor key performance indicators (KPIs)
+4. Designing an interactive dashboard for reporting and analysis purposes.
 
 ## Datasets:-
-The dataset used in this project contains various employee attributes such as age, gender, job role, years of experience, performance ratings, and attrition status. The dataset can be found in the `data` directory and is named `HR data.xlsx`.
+The dataset used in this project contains various employee attributes such as age, gender, job role, years of experience, performance ratings, and attrition status. The dataset is named `HR data.xlsx` ad can be downloaded from the repository.
 
 
 # Screenshots of Key Visuals of HR Analytics Final Report:-
